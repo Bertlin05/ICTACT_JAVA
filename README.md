@@ -1,2 +1,0 @@
-# ICTACT_JAVA
- 
